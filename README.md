@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student at the University of Oregon with a BS in Data Science and Minor in CS + Mathematics. I'm currently working on automating a way to count the amount of fringes from a snapshot of the optical lenses of an Michelson Interferometer.
+I'm a student at the University of Oregon with a BS in Data Science and Minor in CS + Mathematics. I'm currently working on an Michelson Interferometer fringe counter.
 <!--
 **mariahridley/mariahridley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
