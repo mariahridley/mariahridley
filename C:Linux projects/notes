@@ -1,0 +1,5 @@
+ if (argc != 4)
+    {
+        printf("Invalid number of arguments.\n");
+        return EXIT_FAILURE;
+    }
