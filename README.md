@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm a student at the University of Oregon with a BS in Data Science and Minor in CS + Mathematics. I'm currently working on an Michelson Interferometer fringe counter.
+I'm a student at the University of Oregon with a BS in Data Science and Minor in CS + Mathematics 📊. I recently finished working on an Michelson Interferometer fringe counter, and now I'm studying database entry and operations using SQL. 
+
+Check out my work on Python, C, and Linux Projects! ☄️
 <!--
 **mariahridley/mariahridley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
