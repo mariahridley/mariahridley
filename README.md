@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://mariahr-resume.tiiny.site](https://mariahr-resume.tiiny.site)
 
-- ⚡ Fun fact **I'm very social and I love to play the Ukuele!**
+- ⚡ Fun fact **I love to play the Ukuele!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
