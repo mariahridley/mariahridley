@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Michealson Interferometer Fringe Counter](https://github.com/mariahridley/Undergrad-Research-Project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mariahridley/mariahridley](https://github.com/mariahridley/mariahridley)
+- 👨‍💻 All of my projects are listed in my repositories.
 
 - 📫 How to reach me **mariahridley3@gmail.com**
 
