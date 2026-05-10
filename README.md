@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mariahridley3@gmail.com**
 
-- 📄 Know about my experiences [https://mariahr-resume.tiiny.site](https://mariahr-resume.tiiny.site)
+- 📄 Know about my experiences [https://mariahr-resume.tiiny.site](https://mariahresume.tiiny.site/)
 
 - ⚡ Fun fact **I love to play the Ukuele!**
 
